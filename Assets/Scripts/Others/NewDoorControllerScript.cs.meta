@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 1007c61267d9253469775df51e86defb
+timeCreated: 1489995331
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - leftDoor: {instanceID: 0}
+  - rightDoor: {instanceID: 0}
+  - verticalLeftDoorOpen: {fileID: 21300006, guid: 3e23957c141220e4097a50f3cf4ba2a0,
+      type: 3}
+  - verticalRightDoorOpen: {fileID: 21300008, guid: 3e23957c141220e4097a50f3cf4ba2a0,
+      type: 3}
+  - sideLeftDoorOpen: {fileID: 21300032, guid: 3e23957c141220e4097a50f3cf4ba2a0, type: 3}
+  - sideRightDoorOpen: {fileID: 21300048, guid: 3e23957c141220e4097a50f3cf4ba2a0,
+      type: 3}
+  - verticalLeftDoorClose: {fileID: 21300086, guid: 3e23957c141220e4097a50f3cf4ba2a0,
+      type: 3}
+  - verticalRightDoorClose: {fileID: 21300088, guid: 3e23957c141220e4097a50f3cf4ba2a0,
+      type: 3}
+  - sideLeftDoorClose: {fileID: 21300046, guid: 3e23957c141220e4097a50f3cf4ba2a0,
+      type: 3}
+  - sideRightDoorClose: {fileID: 21300062, guid: 3e23957c141220e4097a50f3cf4ba2a0,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

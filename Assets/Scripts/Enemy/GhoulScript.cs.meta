@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 13e7a5bdb1d3de14ab315061101a5da9
+timeCreated: 1488865103
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - earthProjectile: {fileID: 1036193278154044, guid: 038fb5c5fd075b7418d406247748a844,
+      type: 2}
+  - waterProjectile: {instanceID: 0}
+  - airProjectile: {instanceID: 0}
+  - fireProjectile: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

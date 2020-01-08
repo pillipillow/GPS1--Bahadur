@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9bb93e4cf52244549b38573f99af8697
+timeCreated: 1488779879
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - miniEarthProjectile: {fileID: 1427625919713140, guid: 963b5dced41f74d47b8736f29d105205,
+      type: 2}
+  - waterTrail: {fileID: 1809738842065572, guid: 1f5aa75567e63cf4a9fd36a288fff778,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: airGolem
+  m_Controller: {fileID: 9100000, guid: 44135da961923e442bfffe63206e32e3, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 68eed982b5fafb745beaa4b75eafb0a7, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6460c49f5048bfe48b7f590055d72273, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: fb5d95d64776ca6438e4dab6a00c9979, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4161ffc3bda905446af53570d800cbc7, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 38b36d225386c7d4d8f165a9bde1b5bb, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4c64dca3b1406414692ce96405b3fd23, type: 2}

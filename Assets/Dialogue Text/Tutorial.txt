@@ -1,0 +1,62 @@
+//Room 1 start
+Greetings. You finally regained your senses I see! You have been asleep for quite sometime.
+Don't suppose you remember how to move right?
+If you do, step unto the portal to start your journey.
+If you don't, press <b><color=yellow>'W','S','A'</color></b> and <b><color=yellow>'D'</color></b>.
+Why don't you take a walk by stepping all those floor pads? 
+
+If you still can't remember how to move, press <b><color=yellow>'W','S','A'</color></b> and <b><color=yellow>'D'</color></b>. 
+You want to leave right? Those floor pads aren't' going to step themselves.
+
+Excellent, move on to the next room and I'll be there.
+//Room 1 end
+
+//Room 2 start
+Hey over here! Press <b>F</b> to interact with me.
+
+Looks like this hall is breaking down, might want to use your teleport to get across.
+<b><color=yellow>Hold down the movement key (W,A,S,D)</color></b> and <b><color=yellow>right click to teleport a short distance</color></b>. 
+//Room 2 end
+
+//Room 3
+Oh what are these elemental golems? These haven't been active for ages!
+I can sense they are going to be active soon.
+Good thing you still have your elemental powers.
+Your first element is <b><color=#d43b3bff>FIRE</color></b>, and it goes against <b><color=#e0dcccff>AIR.</color></b>
+Give it a try on the <b><color=#e0dcccff>Air Golem</color></b> with a <b><color=yellow>left click.</color></b>
+Interact with me when you are done. 
+
+Second power element is <b><color=#e0dcccff>AIR</color></b>, and it's strong against <b><color=#33c27dff>EARTH.</color></b>
+To switch your second element, <b><color=yellow>press the number 2 on your keyboard.</color></b>
+Or <b><color=yellow>scroll down</color></b> with your <b><color=yellow>mouse scroll.</color></b>
+
+Your third is <b><color=#33c27dff>EARTH</color></b> It goes against <b><color=#65c4f4>WATER.</color></b>
+Remember you can move around while shooting.
+and switch your elements while moving as well!
+
+Lastly your <b><color=#65c4f4>WATER</color></b> is against <b><color=#d43b3bff>FIRE.</color></b>
+Remember that you can teleport to dodge incoming attacks.
+
+
+Wonderful, remember what each Elemental Golem is weak against.
+If you can't remember, <b>look at the order of your action bar.</b>
+<b>Or look into their eyes for their weakness.</b>
+Anyways here's a jar of a rune for you heal yourself. <b><color=yellow>You have to smash it and runes will drop.</color></b>
+Or you can leave it behind to save it for later. They are very rare to find in these halls.
+I'll be around somewhere.
+//Room 3
+
+//Room 4
+Upon this hall, I sense there is a great evil...
+Something that is a part of it that awakens these golems.
+However, everytime you defeat a part of them, <b>I gain some power for your blessing.</b>
+Be prepared and be careful.
+//Room 4
+
+//Upgrade
+Well done! That's one evil purge from this dungeon.
+Interact with me to gain a blessing.
+
+A part of you has now regain and it's time to leave this place.
+Please step into the portal.
+

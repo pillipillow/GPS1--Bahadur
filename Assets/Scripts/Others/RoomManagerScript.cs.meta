@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0be0043f24f76f941bbac58089167ffc
+timeCreated: 1490079107
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - boss: {instanceID: 0}
+  - djinn: {fileID: 1387046971862366, guid: 57e2e5e4347b7e4468c1c323011d1cf2, type: 2}
+  - portal: {fileID: 1540191684805654, guid: 9cf944bf3b5785442b7e40c47a339103, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

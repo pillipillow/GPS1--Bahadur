@@ -1,0 +1,7 @@
+
+Hey over here! Press F to interact with me.
+
+What a strange room this place.
+Nothing is happening right now.
+Ah well, let's wait for the tutorial to happen.
+//always have space at the end of the speech

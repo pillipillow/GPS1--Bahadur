@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1061751690596514}
+  m_IsPrefabParent: 1
+--- !u!1 &1061751690596514
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4316492719084660}
+  - component: {fileID: 114856204745107878}
+  - component: {fileID: 114595584295514644}
+  m_Layer: 0
+  m_Name: Game Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4316492719084660
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1061751690596514}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.040224552, y: -0.4400587, z: 90.140625}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114595584295514644
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1061751690596514}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cf1b5aad8b8ca1478f43259b83e672e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  numOfRooms:
+    m_Min: 5
+    m_Max: 10
+  roomWidth:
+    m_Min: 5
+    m_Max: 20
+  roomHeight:
+    m_Min: 5
+    m_Max: 20
+  wallCount:
+    minimum: 5
+    maximum: 9
+  door: {fileID: 1568175560501382, guid: 41f5a1a58653c904fbca0ab62c6d3d61, type: 2}
+  floorTiles:
+  - {fileID: 1990491215957716, guid: e531c99522bf74a45bde5a855303ee5b, type: 2}
+  wallTiles: []
+  enemies: []
+  outerWallTiles:
+  - {fileID: 1269405489259564, guid: 18ed1798e662e9d4d9df2abbab03c3a0, type: 2}
+  spawnPoint: {x: 0, y: 0, z: 0}
+--- !u!114 &114856204745107878
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1061751690596514}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13160645b52d07e48b5ead03f9f1507c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 0}
